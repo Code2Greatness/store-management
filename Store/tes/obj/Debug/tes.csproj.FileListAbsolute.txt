@@ -1,0 +1,177 @@
+C:\Users\ariba\Desktop\PC\tes\tes\bin\Debug\tes.exe.config
+C:\Users\ariba\Desktop\PC\tes\tes\bin\Debug\tes.exe
+C:\Users\ariba\Desktop\PC\tes\tes\bin\Debug\tes.pdb
+C:\Users\ariba\Desktop\PC\tes\tes\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Form2.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.csproj.GenerateResource.Cache
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.exe
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.pdb
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Main.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.login.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Achat.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Base_d.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.stock.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.ventes.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Afficher_Photo.resources
+C:\Users\ariba\Desktop\PC\tes\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\bin\Debug\tes.exe.config
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.exe
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.pdb
+C:\Users\Maleen\Documents\app Stage\tes\tes\bin\Debug\tes.exe
+C:\Users\Maleen\Documents\app Stage\tes\tes\bin\Debug\tes.pdb
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Afficher_Photo.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Base_d.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Main.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Form2.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Achat.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.login.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.stock.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.ventes.resources
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.csproj.GenerateResource.Cache
+C:\Users\Maleen\Documents\app Stage\tes\tes\obj\Debug\tes.suppClient.resources
+C:\Users\ariba\Desktop\tes\tes\bin\Debug\tes.exe.config
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.exe
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.pdb
+C:\Users\ariba\Desktop\tes\tes\bin\Debug\tes.exe
+C:\Users\ariba\Desktop\tes\tes\bin\Debug\tes.pdb
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Afficher_Photo.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Base_d.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Main.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Form2.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Achat.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.login.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.stock.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.suppClient.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.ventes.resources
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.csproj.GenerateResource.Cache
+C:\Users\ariba\Desktop\tes\tes\obj\Debug\tes.Supp_Produit.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\bin\Debug\tes.exe.config
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.exe
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.pdb
+C:\Users\Maleen\Documents\app Stage\tes2\tes\bin\Debug\tes.exe
+C:\Users\Maleen\Documents\app Stage\tes2\tes\bin\Debug\tes.pdb
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Afficher_Photo.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Base_d.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Main.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Achat.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.login.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.stock.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.suppClient.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Supp_Produit.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.ventes.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.csproj.GenerateResource.Cache
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Ajouter_fourni.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.supp_fournisseurcs.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.modifier_Fournisseur.resources
+C:\Users\Maleen\Documents\app Stage\tes2\tes\obj\Debug\tes.Restauration.resources
+C:\Users\ariba\Desktop\tes2\tes\bin\Debug\tes.exe.config
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.exe
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.pdb
+C:\Users\ariba\Desktop\tes2\tes\bin\Debug\tes.exe
+C:\Users\ariba\Desktop\tes2\tes\bin\Debug\tes.pdb
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Afficher_Photo.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Base_d.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Main.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Ajouter_fourni.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Achat.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.login.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.modifier_Fournisseur.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Restauration.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.stock.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.suppClient.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.supp_fournisseurcs.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.Supp_Produit.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.ventes.resources
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.csproj.GenerateResource.Cache
+C:\Users\ariba\Desktop\tes2\tes\obj\Debug\tes.produits.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\bin\Debug\tes.exe.config
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.exe
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.pdb
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\bin\Debug\tes.exe
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\bin\Debug\tes.pdb
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Afficher_Photo.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Base_d.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Main.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Ajouter_fourni.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Achat.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.login.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.modifier_Fournisseur.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Restauration.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.stock.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.suppClient.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.supp_fournisseurcs.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Supp_Produit.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.produits.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.Ventes.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.csproj.GenerateResource.Cache
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.AjoutCommande.resources
+C:\Users\Maleen\Documents\app Stage\test3\tes2\tes\obj\Debug\tes.DetailCmd.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\bin\Debug\tes.exe.config
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.exe
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.pdb
+C:\Users\ariba\Desktop\test3\tes2\tes\bin\Debug\tes.exe
+C:\Users\ariba\Desktop\test3\tes2\tes\bin\Debug\tes.pdb
+C:\Users\ariba\Desktop\test3\tes2\tes\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.csprojResolveAssemblyReference.cache
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.AjoutCommande.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.AJOUTER_MODIFIER_CLIENT.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Ajouter_Produit.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.DetailCmd.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Main.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Ajouter_fourni.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Achat.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.clientforniss.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.login.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Modifier_client.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.modifier_Fournisseur.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Modifier_Produit.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Restauration.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.stock.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.suppClient.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.supp_fournisseurcs.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Supp_Produit.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.produits.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.Ventes.resources
+C:\Users\ariba\Desktop\test3\tes2\tes\obj\Debug\tes.csproj.GenerateResource.Cache

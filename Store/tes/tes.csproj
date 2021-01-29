@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C87CF38E-6ED5-4CAE-9BA7-7CF72F83B384}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>tes</RootNamespace>
+    <AssemblyName>tes</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.4">
+      <HintPath>..\..\..\Bunifu_UI_v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AjoutCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutCommande.Designer.cs">
+      <DependentUpon>AjoutCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AJOUTER_MODIFIER_CLIENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AJOUTER_MODIFIER_CLIENT.Designer.cs">
+      <DependentUpon>AJOUTER_MODIFIER_CLIENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ajouter_Produit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajouter_Produit.Designer.cs">
+      <DependentUpon>Ajouter_Produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DetailCmd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailCmd.Designer.cs">
+      <DependentUpon>DetailCmd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ajouter_Forni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajouter_Forni.Designer.cs">
+      <DependentUpon>Ajouter_Forni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Achat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Achat.Designer.cs">
+      <DependentUpon>Achat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clientforniss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clientforniss.Designer.cs">
+      <DependentUpon>clientforniss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modifier_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modifier_client.Designer.cs">
+      <DependentUpon>Modifier_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifier_Fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifier_Fournisseur.Designer.cs">
+      <DependentUpon>modifier_Fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modifier_Produit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modifier_Produit.Designer.cs">
+      <DependentUpon>Modifier_Produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Restauration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restauration.Designer.cs">
+      <DependentUpon>Restauration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stock.Designer.cs">
+      <DependentUpon>stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="suppClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suppClient.Designer.cs">
+      <DependentUpon>suppClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supp_fournisseurcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supp_fournisseurcs.Designer.cs">
+      <DependentUpon>supp_fournisseurcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supp_Produit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supp_Produit.Designer.cs">
+      <DependentUpon>Supp_Produit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="produits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="produits.Designer.cs">
+      <DependentUpon>produits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infoclient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infoclient.Designer.cs">
+      <DependentUpon>infoclient.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AjoutCommande.resx">
+      <DependentUpon>AjoutCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AJOUTER_MODIFIER_CLIENT.resx">
+      <DependentUpon>AJOUTER_MODIFIER_CLIENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ajouter_Produit.resx">
+      <DependentUpon>Ajouter_Produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailCmd.resx">
+      <DependentUpon>DetailCmd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ajouter_Forni.resx">
+      <DependentUpon>Ajouter_Forni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Achat.resx">
+      <DependentUpon>Achat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clientforniss.resx">
+      <DependentUpon>clientforniss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modifier_client.resx">
+      <DependentUpon>Modifier_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifier_Fournisseur.resx">
+      <DependentUpon>modifier_Fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modifier_Produit.resx">
+      <DependentUpon>Modifier_Produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Restauration.resx">
+      <DependentUpon>Restauration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stock.resx">
+      <DependentUpon>stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suppClient.resx">
+      <DependentUpon>suppClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supp_fournisseurcs.resx">
+      <DependentUpon>supp_fournisseurcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supp_Produit.resx">
+      <DependentUpon>Supp_Produit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="produits.resx">
+      <DependentUpon>produits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infoclient.resx">
+      <DependentUpon>infoclient.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Country_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ville_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gmail_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adresse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phone_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle-iconaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contacts-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\commercial-delivery-symbol-of-a-list-on-clipboard-on-a-box-package %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_add_shopping_cart_black_36dp_2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\two-persons-shopping.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory-stock-house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
